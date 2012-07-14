@@ -4,7 +4,7 @@
 
 ### The Ruby API
 
-  http://www.ruby-doc.org/core-1.9.3/
+	http://www.ruby-doc.org/core-1.9.3/
 
 ### The free online version of Programming Ruby: The Pragmatic Programmer’s Guide
 
