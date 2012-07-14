@@ -2,17 +2,22 @@
 
 ## Find the following
 
-The Ruby API
-http://www.ruby-doc.org/core-1.9.3/
+### The Ruby API
 
-The free online version of Programming Ruby: The Pragmatic Programmer’s Guide
-http://www.ruby-doc.org/docs/ProgrammingRuby/
+  http://www.ruby-doc.org/core-1.9.3/
 
-A method that substitutes part of a string
-http://www.ruby-doc.org/core-1.9.3/String.html#method-i-gsub
+### The free online version of Programming Ruby: The Pragmatic Programmer’s Guide
 
-Information about Ruby’s regular expressions
-http://www.ruby-doc.org/core-1.9.3/Regexp.html
+	http://www.ruby-doc.org/docs/ProgrammingRuby/
 
-Information about Ruby’s ranges
-http://www.ruby-doc.org/core-1.9.3/Range.html
+### A method that substitutes part of a string
+
+	http://www.ruby-doc.org/core-1.9.3/String.html#method-i-gsub
+
+### Information about Ruby’s regular expressions
+
+	http://www.ruby-doc.org/core-1.9.3/Regexp.html
+
+### Information about Ruby’s ranges
+
+	http://www.ruby-doc.org/core-1.9.3/Range.html
