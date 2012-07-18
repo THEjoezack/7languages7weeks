@@ -65,8 +65,6 @@ file = valid_arguments ? ARGV[0].to_s : "do.rb"
 expression = valid_arguments ? ARGV[1].to_s : "ARGV"
 puts "Searching for #{expression} in #{file}"
 
-line_number = 1
-File.open(file,'r').each do |line|
+File.open(file,'r').each_with_index do |line,line_number|
 	puts "#{line_number}: #{line}" if line =~ /#{expression}/
-	line_number += 1
 end
