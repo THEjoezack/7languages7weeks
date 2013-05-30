@@ -27,19 +27,24 @@ object Referee {
   protected[Referee] def horizontalWin(board:Board, token:Token.Token) : Boolean = {
     for(i <- 0 to board.Size - 1) {
       if (board.get(i,0) == token && board.get(0,1) == token && board.get(0,2) == token)return true
+      allMatch(token,board.get(i,0),board.get(0,1),board.get(0,2))
     }
     false
   }
 
   protected[Referee] def verticalWin(board:Board, token:Token.Token) : Boolean = {
     for(i <- 0 to board.Size - 1) {
-      if (board.get(i,0) == token && board.get(i,1) == token && board.get(i,2) == token) return true
+      if(allMatch(token,board.get(i,0),board.get(i,1),board.get(i,2))) return true
     }
     false
   }
 
   protected[Referee] def diagonalWin(board:Board, token:Token.Token) : Boolean = {
-    board.get(0,0) == board.get(1,1) == board.get(2,2) == token ||
-      board.get(2,0) == board.get(1,1) == board.get(0,2) == token
+    allMatch(token,board.get(0,0),board.get(1,1),board.get(2,2)) ||
+      allMatch(token,board.get(2,0),board.get(1,1),board.get(0,2))
+  }
+
+  protected[Referee] def allMatch(tokens: Token.Token*) : Boolean = {
+    tokens.groupBy(_).count == 1
   }
 }

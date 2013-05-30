@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58934e56-8dfd-4d00-8a0d-35291ac8450d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/joezack/tictactoe/Board.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/joezack/tictactoe/Referee.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/do.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/joezack/tictactoe/Referee.scala" afterPath="$PROJECT_DIR$/src/com/joezack/tictactoe/Referee.scala" />
     </list>
     <ignored path="day_1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Token.scala" changelist="58934e56-8dfd-4d00-8a0d-35291ac8450d" time="1369927158953" ignored="false" />
     <file path="/Dummy.txt" changelist="58934e56-8dfd-4d00-8a0d-35291ac8450d" time="1369919993158" ignored="false" />
     <file path="/Board.scala" changelist="58934e56-8dfd-4d00-8a0d-35291ac8450d" time="1369927407097" ignored="false" />
-    <file path="/Referee.scala" changelist="58934e56-8dfd-4d00-8a0d-35291ac8450d" time="1369927193800" ignored="false" />
+    <file path="/Referee.scala" changelist="58934e56-8dfd-4d00-8a0d-35291ac8450d" time="1369934393394" ignored="false" />
     <file path="/a.dummy" changelist="58934e56-8dfd-4d00-8a0d-35291ac8450d" time="1369927381098" ignored="false" />
     <file path="/do.md" changelist="58934e56-8dfd-4d00-8a0d-35291ac8450d" time="1369927593017" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,10 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="do.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="do.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/do.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="34" selection-start="247" selection-end="247" vertical-scroll-proportion="0.14782609">
+            <state line="5" column="23" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -101,10 +99,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Referee.scala" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Referee.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/joezack/tictactoe/Referee.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="72" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0">
+            <state line="47" column="19" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.7634783">
               <folding />
             </state>
           </provider>
@@ -140,8 +138,8 @@
         <option value="$PROJECT_DIR$/find.md" />
         <option value="$PROJECT_DIR$/src/com/joezack/tictactoe/Token.scala" />
         <option value="$PROJECT_DIR$/src/com/joezack/tictactoe/Board.scala" />
-        <option value="$PROJECT_DIR$/src/com/joezack/tictactoe/Referee.scala" />
         <option value="$PROJECT_DIR$/src/do.md" />
+        <option value="$PROJECT_DIR$/src/com/joezack/tictactoe/Referee.scala" />
       </list>
     </option>
   </component>
@@ -454,13 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/joezack/tictactoe/Referee.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="72" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/joezack/tictactoe/Token.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="30" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
@@ -477,7 +468,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/do.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="34" selection-start="247" selection-end="247" vertical-scroll-proportion="0.14782609">
+        <state line="5" column="23" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/joezack/tictactoe/Referee.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="19" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.7634783">
           <folding />
         </state>
       </provider>
