@@ -4,7 +4,7 @@ object Referee {
   def getWinner(board:Board) : Token.Value = {
     if(isWinner(board,Token.X)) return Token.X
     if(isWinner(board,Token.O)) return Token.O
-    Token.Blank
+    null
   }
 
   def isTie(board:Board) : Boolean = {
@@ -45,6 +45,6 @@ object Referee {
   }
 
   protected[Referee] def allMatch(tokens: Token.Token*) : Boolean = {
-    tokens.groupBy(_).count == 1
+    tokens.distinct.length == 1
   }
 }
