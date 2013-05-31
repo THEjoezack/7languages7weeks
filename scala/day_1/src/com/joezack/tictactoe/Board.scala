@@ -10,15 +10,15 @@ class Board {
   }
 
   def set(x:Int,y:Int,t:Token.Token) {
-    if(t == Token.Blank) throw new IllegalArgumentException("Can't set a blank token")
-    if(matrix(x)(y) != Token.Blank) throw new IllegalArgumentException("Token cannot be placed, space has been used")
+    if(t == null) throw new IllegalArgumentException("Can't set a blank token")
+    if(matrix(x)(y) != null) throw new IllegalArgumentException("Token cannot be placed, space has been used")
     matrix(x)(y) = t
   }
 
   protected[Board] def initialize() {
     for(i <- 0 to Size - 1) {
       for(j <- 0 to Size - 1) {
-        matrix(i)(j) = Token.Blank
+        matrix(i)(j) = null
       }
     }
   }

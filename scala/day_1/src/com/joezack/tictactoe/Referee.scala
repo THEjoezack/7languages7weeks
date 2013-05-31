@@ -8,13 +8,13 @@ object Referee {
   }
 
   def isTie(board:Board) : Boolean = {
-    isMoveAvailable(board) && getWinner(board) == Token.Blank
+    isMoveAvailable(board) && getWinner(board) == null
   }
 
   def isMoveAvailable(board:Board) : Boolean = {
     for(i <- 0 to board.Size - 1) {
       for(j <- 0 to board.Size - 1) {
-        if(board.get(i,j) == Token.Blank) return true
+        if(board.get(i,j) == null) return true
       }
     }
     false
