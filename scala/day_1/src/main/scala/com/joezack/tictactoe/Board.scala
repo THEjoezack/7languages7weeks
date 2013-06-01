@@ -6,13 +6,19 @@ class Board {
   initialize()
 
   def get(x:Int,y:Int) : Token.Token = {
+    checkBounds(x,y)
     matrix(x)(y)
   }
 
   def set(x:Int,y:Int,t:Token.Token) {
+    checkBounds(x,y)
     if(t == null) throw new IllegalArgumentException("Can't set a blank token")
     if(matrix(x)(y) != null) throw new IllegalArgumentException("Token cannot be placed, space has been used")
     matrix(x)(y) = t
+  }
+
+  protected[Board] def checkBounds(x:Int, y:Int) {
+    if(x < 0 || x > Size || y < 0 || y > Size) throw new IndexOutOfBoundsException("Index out of range")
   }
 
   protected[Board] def initialize() {
