@@ -22,12 +22,12 @@
       <sourceFolder url="file://$MODULE_DIR$/../src/test/resources" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/../target" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.10.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="SBT: org.scalatest:scalatest_2.10:1.9.1:test" level="project" />
-    <orderEntry type="library" scope="TEST" name="SBT: org.scala-lang:scala-actors:2.10.0:test" level="project" />
-    <orderEntry type="library" scope="TEST" name="SBT: org.scala-lang:scala-reflect:2.10.0:test" level="project" />
+    <orderEntry type="library" exported="" name="SBT: org.scala-lang:scala-library:2.10.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="SBT: org.scalatest:scalatest_2.10:1.9.1:test" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="SBT: org.scala-lang:scala-actors:2.10.0:test" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="SBT: org.scala-lang:scala-reflect:2.10.0:test" level="project" />
   </component>
 </module>
 
