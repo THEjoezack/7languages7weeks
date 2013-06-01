@@ -1,6 +1,7 @@
 package com.joezack.tictactoe
 
 object Referee {
+
   def getWinner(board:Board) : Token.Value = {
     if(isWinner(board,Token.X)) return Token.X
     if(isWinner(board,Token.O)) return Token.O
@@ -8,13 +9,14 @@ object Referee {
   }
 
   def isTie(board:Board) : Boolean = {
-    isMoveAvailable(board) && getWinner(board) == null
+    !isMoveAvailable(board) && getWinner(board) == null
   }
 
   def isMoveAvailable(board:Board) : Boolean = {
+    if(getWinner(board) != null) return false
     for(i <- 0 to board.Size - 1) {
       for(j <- 0 to board.Size - 1) {
-        if(board.get(i,j) == null) return true
+        if(board.get(i,j) == Token.Blank) return true
       }
     }
     false
@@ -26,8 +28,7 @@ object Referee {
 
   protected[Referee] def horizontalWin(board:Board, token:Token.Token) : Boolean = {
     for(i <- 0 to board.Size - 1) {
-      if (board.get(i,0) == token && board.get(0,1) == token && board.get(0,2) == token)return true
-      allMatch(token,board.get(i,0),board.get(0,1),board.get(0,2))
+      if (allMatch(token,board.get(0,i),board.get(1,i),board.get(2,i))) return true
     }
     false
   }
