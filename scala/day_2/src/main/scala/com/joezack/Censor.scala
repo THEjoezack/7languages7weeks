@@ -1,10 +1,24 @@
 package com.joezack
 
+import scala.xml.XML
+
 trait Censor {
-  protected[Censor] val blackList = Map(
+
+  protected[Censor] var blackList = scala.collection.mutable.Map(
     "shoot" -> "pucky",
     "darn" -> "beans"
   )
+
+  def AddReplacementWords(fileName:String) {
+    val xml = XML.loadFile(fileName)
+    val words = (xml \\ "xml" \\ "replacements" \\ "replace")
+
+    words.foreach(
+      w => blackList.put(
+        (w \\ "@dirty").toString(),
+        (w \\ "@clean").toString())
+    )
+  }
 
   def Replace(input:String) : String = {
     if(input == null) return null
