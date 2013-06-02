@@ -1,9 +1,8 @@
 package com.joezack
 
 import org.scalatest.FunSpec
-import org.scalatest.BeforeAndAfter
 
-class BeanCounterSpec extends FunSpec with BeforeAndAfter {
+class BeanCounterSpec extends FunSpec {
   describe("BeanCounter") {
     it("should accurately count letters") {
       val list = List("test","test2")

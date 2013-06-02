@@ -4,9 +4,9 @@
     <list default="true" id="a41ed853-0ceb-4707-bc72-d140062749f1" name="Default" comment="" />
     <ignored path="day_1.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.java" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370139583748" ignored="false" />
+    <file path="/fragment.java" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370182855681" ignored="false" />
     <file path="/BoardTest.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370084007354" ignored="false" />
-    <file path="/SBT" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370140157026" ignored="false" />
+    <file path="/SBT" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370184704213" ignored="false" />
     <file path="/Dummy.txt" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370136429947" ignored="false" />
     <file path="/Board.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370083743879" ignored="false" />
     <file path="/RefereeSpec.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370091861766" ignored="false" />
@@ -15,13 +15,15 @@
     <file path="/a.dummy" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370139716499" ignored="false" />
     <file path="/Game.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370111831214" ignored="false" />
     <file path="/Scala Console" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370110578621" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370140154339" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370184700940" ignored="false" />
     <file path="/find.md" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370138943116" ignored="false" />
     <file path="/do.md" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370139117915" ignored="false" />
     <file path="/ListStringSize.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370140054607" ignored="false" />
     <file path="/ListStringSize$Test.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370140150349" ignored="false" />
     <file path="/BeanCounterSpec.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370139854048" ignored="false" />
     <file path="/BeanCounter.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370140028129" ignored="false" />
+    <file path="/Censor.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370184555013" ignored="false" />
+    <file path="/CensorSpec.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370184700246" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +97,7 @@
       <file leaf-file-name="do.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/do.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="62" selection-start="77" selection-end="137" vertical-scroll-proportion="0.0">
+            <state line="8" column="106" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -110,13 +112,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BeanCounterSpec.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BeanCounterSpec.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/BeanCounterSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="14" selection-start="385" selection-end="385" vertical-scroll-proportion="0.49763033">
-              <folding>
-                <element signature="e#21#49#0" expanded="true" />
-              </folding>
+            <state line="3" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Censor.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/joezack/Censor.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="38" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CensorSpec.scala" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/CensorSpec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="18" selection-start="818" selection-end="818" vertical-scroll-proportion="0.8578199">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -139,8 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/build.sbt" />
-        <option value="$PROJECT_DIR$/src/test/scala/com/joezack/tictactoe/BoardTest.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/joezack/tictactoe/Referee$Test.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/joezack/tictactoe/Token.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/joezack/tictactoe/Board.scala" />
@@ -155,6 +171,8 @@
         <option value="$PROJECT_DIR$/src/test/scala/com/joezack/ListStringSizeSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/joezack/BeanCounter.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/joezack/BeanCounterSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/joezack/Censor.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/joezack/CensorSpec.scala" />
       </list>
     </option>
   </component>
@@ -606,20 +624,6 @@
         <state line="3" column="19" selection-start="132" selection-end="132" vertical-scroll-proportion="0.06401138" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/find.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="76" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/do.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="62" selection-start="77" selection-end="137" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/joezack/BeanCounter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="1" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
@@ -629,10 +633,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/BeanCounterSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="14" selection-start="385" selection-end="385" vertical-scroll-proportion="0.49763033">
-          <folding>
-            <element signature="e#21#49#0" expanded="true" />
-          </folding>
+        <state line="3" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/joezack/Censor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="38" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="76" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/do.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="106" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/CensorSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="18" selection-start="818" selection-end="818" vertical-scroll-proportion="0.8578199">
+          <folding />
         </state>
       </provider>
     </entry>
