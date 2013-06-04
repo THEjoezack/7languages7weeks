@@ -15,6 +15,8 @@
     <file path="/a.dummy" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370091485659" ignored="false" />
     <file path="/Game.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370111831214" ignored="false" />
     <file path="/Scala Console" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370110578621" ignored="false" />
+    <file path="/find.md" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370315467439" ignored="false" />
+    <file path="/do.md" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370315513550" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +77,26 @@
     <favorites_list name="day_1" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="find.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/find.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="92" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="do.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/do.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="2" selection-start="124" selection-end="124" vertical-scroll-proportion="0.21226415">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -103,6 +124,8 @@
         <option value="$PROJECT_DIR$/src/test/scala/com/joezack/tictactoe/RefereeSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/joezack/tictactoe/Referee.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/joezack/tictactoe/Game.scala" />
+        <option value="$PROJECT_DIR$/find.md" />
+        <option value="$PROJECT_DIR$/do.md" />
       </list>
     </option>
   </component>
@@ -151,6 +174,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="day_3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -362,7 +395,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="25" width="1444" height="877" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -382,7 +415,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29770446" sideWeight="0.6161202" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29770446" sideWeight="0.6161202" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -475,6 +508,20 @@
     <entry file="file://$PROJECT_DIR$/project/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="53" selection-start="243" selection-end="243" vertical-scroll-proportion="0.21226415">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="92" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/do.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="2" selection-start="124" selection-end="124" vertical-scroll-proportion="0.21226415">
           <folding />
         </state>
       </provider>
