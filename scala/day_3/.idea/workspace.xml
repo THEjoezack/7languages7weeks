@@ -4,27 +4,17 @@
     <list default="true" id="a41ed853-0ceb-4707-bc72-d140062749f1" name="Default" comment="" />
     <ignored path="day_1.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.java" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370182855681" ignored="false" />
+    <file path="/fragment.java" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370082385998" ignored="false" />
     <file path="/BoardTest.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370084007354" ignored="false" />
-    <file path="/SBT" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370313532580" ignored="false" />
-    <file path="/Dummy.txt" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370313643813" ignored="false" />
+    <file path="/SBT" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370136093886" ignored="false" />
+    <file path="/Dummy.txt" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370313819054" ignored="false" />
     <file path="/Board.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370083743879" ignored="false" />
     <file path="/RefereeSpec.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370091861766" ignored="false" />
     <file path="/Token.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370083510328" ignored="false" />
     <file path="/Referee.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370090966793" ignored="false" />
-    <file path="/a.dummy" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370139716499" ignored="false" />
+    <file path="/a.dummy" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370091485659" ignored="false" />
     <file path="/Game.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370111831214" ignored="false" />
     <file path="/Scala Console" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370110578621" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370313650715" ignored="false" />
-    <file path="/find.md" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370138943116" ignored="false" />
-    <file path="/do.md" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370139117915" ignored="false" />
-    <file path="/ListStringSize.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370140054607" ignored="false" />
-    <file path="/ListStringSize$Test.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370140150349" ignored="false" />
-    <file path="/BeanCounterSpec.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370139854048" ignored="false" />
-    <file path="/BeanCounter.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370140028129" ignored="false" />
-    <file path="/Censor.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370191443562" ignored="false" />
-    <file path="/CensorSpec.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370191557720" ignored="false" />
-    <file path="/dirty-words.txt" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370186848329" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,64 +76,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="find.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/find.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="76" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="do.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/do.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="91" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeanCounter.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/joezack/BeanCounter.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="1" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeanCounterSpec.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/BeanCounterSpec.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="51" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="build.sbt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
+        <entry file="file://$PROJECT_DIR$/project/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="47" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Censor.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/joezack/Censor.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="1" selection-start="668" selection-end="668" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CensorSpec.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/CensorSpec.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="30" selection-start="1870" selection-end="1870" vertical-scroll-proportion="0.0">
+            <state line="6" column="53" selection-start="243" selection-end="243" vertical-scroll-proportion="0.21226415">
               <folding />
             </state>
           </provider>
@@ -167,22 +103,16 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/project/build.sbt" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/joezack/tictactoe/BoardTest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/joezack/tictactoe/Referee$Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/joezack/tictactoe/Token.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/joezack/tictactoe/Board.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/joezack/tictactoe/BoardSpec.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/joezack/tictactoe/RefereeSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/joezack/tictactoe/Referee.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/joezack/tictactoe/Game.scala" />
-        <option value="$PROJECT_DIR$/find.md" />
-        <option value="$PROJECT_DIR$/do.md" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/joezack/ListStringSize.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/com/joezack/ListStringSize$Test.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/com/joezack/ListStringSizeSpec.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/joezack/BeanCounter.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/com/joezack/BeanCounterSpec.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/joezack/dirty-words.txt" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/joezack/Censor.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/com/joezack/CensorSpec.scala" />
-        <option value="$PROJECT_DIR$/build.sbt" />
       </list>
     </option>
   </component>
@@ -228,27 +158,31 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day_2" />
+              <option name="myItemId" value="Scala-Skeleton" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day_2" />
+              <option name="myItemId" value="Scala-Skeleton" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day_2" />
+              <option name="myItemId" value="Scala-Skeleton" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day_2" />
+              <option name="myItemId" value="Scala-Skeleton" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day_2" />
+              <option name="myItemId" value="Scala-Skeleton" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -263,18 +197,14 @@
               <option name="myItemId" value="scala" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="joezack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day_2" />
+              <option name="myItemId" value="Scala-Skeleton" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day_2" />
+              <option name="myItemId" value="Scala-Skeleton" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -289,18 +219,28 @@
               <option name="myItemId" value="scala" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="joezack" />
+              <option name="myItemId" value="Scala-Skeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scala-Skeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day_2" />
+              <option name="myItemId" value="Scala-Skeleton" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day_2" />
+              <option name="myItemId" value="Scala-Skeleton" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -320,7 +260,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day_1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../7languages7weeks/scala/day_2" />
     <property name="project.structure.side.proportion" value="0.34298956" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -332,15 +272,13 @@
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.joezack.tictactoe" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.joezack" />
-      <recent name="com.joezack.tictactoe" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/scala/com/joezack" />
       <recent name="E:\projects\day_1\src\main" />
     </key>
   </component>
@@ -388,19 +326,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -427,6 +352,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -520,7 +458,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="25" width="1444" height="877" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -540,7 +478,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29770446" sideWeight="0.6161202" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29770446" sideWeight="0.6161202" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -615,51 +553,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/do.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="91" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/joezack/BeanCounter.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="1" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="47" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/joezack/Censor.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="1" selection-start="668" selection-end="668" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/BeanCounterSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="51" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/CensorSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="30" selection-start="1870" selection-end="1870" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="53" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0" />
+        <state line="8" column="0" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.0/lib/scala-library.jar!/scala/collection/mutable/FlatHashTable.class">
@@ -667,56 +563,14 @@
         <state line="59" column="0" selection-start="4343" selection-end="4343" vertical-scroll-proportion="0.7528517" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea_modules/7 Languages in 7 Weeks - Scala - Day 2.iml">
+    <entry file="file://$PROJECT_DIR$/.idea_modules/ScalaSkeleton.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="19" selection-start="132" selection-end="132" vertical-scroll-proportion="0.06401138" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/joezack/BeanCounter.scala">
+    <entry file="file://$PROJECT_DIR$/project/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="1" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/find.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="76" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/do.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="91" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/CensorSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="30" selection-start="1870" selection-end="1870" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/joezack/Censor.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="1" selection-start="668" selection-end="668" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/BeanCounterSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="51" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="47" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
+        <state line="6" column="53" selection-start="243" selection-end="243" vertical-scroll-proportion="0.21226415">
           <folding />
         </state>
       </provider>
