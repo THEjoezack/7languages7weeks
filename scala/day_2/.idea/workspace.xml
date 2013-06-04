@@ -6,8 +6,8 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/fragment.java" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370182855681" ignored="false" />
     <file path="/BoardTest.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370084007354" ignored="false" />
-    <file path="/SBT" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370191604919" ignored="false" />
-    <file path="/Dummy.txt" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370136429947" ignored="false" />
+    <file path="/SBT" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370313532580" ignored="false" />
+    <file path="/Dummy.txt" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370313643813" ignored="false" />
     <file path="/Board.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370083743879" ignored="false" />
     <file path="/RefereeSpec.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370091861766" ignored="false" />
     <file path="/Token.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370083510328" ignored="false" />
@@ -15,7 +15,7 @@
     <file path="/a.dummy" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370139716499" ignored="false" />
     <file path="/Game.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370111831214" ignored="false" />
     <file path="/Scala Console" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370110578621" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370191610788" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370313637939" ignored="false" />
     <file path="/find.md" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370138943116" ignored="false" />
     <file path="/do.md" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370139117915" ignored="false" />
     <file path="/ListStringSize.scala" changelist="a41ed853-0ceb-4707-bc72-d140062749f1" time="1370140054607" ignored="false" />
@@ -113,10 +113,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BeanCounterSpec.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BeanCounterSpec.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/BeanCounterSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="51" selection-start="162" selection-end="162" vertical-scroll-proportion="0.21327014">
+            <state line="6" column="51" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.sbt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="47" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -135,9 +144,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/CensorSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state line="52" column="30" selection-start="1870" selection-end="1870" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#21#49#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -160,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/com/joezack/tictactoe/Token.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/joezack/tictactoe/Board.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/joezack/tictactoe/BoardSpec.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/joezack/tictactoe/RefereeSpec.scala" />
@@ -176,6 +182,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/joezack/dirty-words.txt" />
         <option value="$PROJECT_DIR$/src/main/scala/com/joezack/Censor.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/joezack/CensorSpec.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
       </list>
     </option>
   </component>
@@ -216,7 +223,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -303,7 +310,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -520,7 +527,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3849315" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38387978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -533,7 +540,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29770446" sideWeight="0.6150685" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29770446" sideWeight="0.6161202" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -608,14 +615,51 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/project/build.sbt">
+    <entry file="file://$PROJECT_DIR$/do.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="53" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0" />
+        <state line="5" column="91" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/joezack/BeanCounter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="1" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" />
+        <state line="0" column="47" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/joezack/Censor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="1" selection-start="668" selection-end="668" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/BeanCounterSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="51" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/CensorSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="30" selection-start="1870" selection-end="1870" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="53" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.10.0/lib/scala-library.jar!/scala/collection/mutable/FlatHashTable.class">
@@ -652,9 +696,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/CensorSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="30" selection-start="1870" selection-end="1870" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#21#49#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -667,7 +709,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/com/joezack/BeanCounterSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="51" selection-start="162" selection-end="162" vertical-scroll-proportion="0.21327014">
+        <state line="6" column="51" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="47" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

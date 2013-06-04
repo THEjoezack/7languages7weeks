@@ -1,4 +1,4 @@
-name := "7 Languages in 7 Weeks - Scala - Day 1"
+name := "7 Languages in 7 Weeks - Scala - Day 2"
 
 version := "0.1"
 
